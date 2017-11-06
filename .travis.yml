@@ -1,9 +1,9 @@
 language: java
 
-#addons:
-#  sonarcloud:
-#    organization: "sbaltes-github"
-#    token: $SONAR_TOKEN
+addons:
+  sonarcloud:
+    organization: "thebuccaneer-github"
+    token: $TheBuccaneer
 
 #script:
 #  # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
