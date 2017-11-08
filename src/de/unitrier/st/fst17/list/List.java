@@ -1,5 +1,5 @@
 package de.unitrier.st.fst17.list;
-//TheBuccaneer
+//TheBuccaneer Kommentar
 /**
  * Doppelt verkettete Liste.
  */
